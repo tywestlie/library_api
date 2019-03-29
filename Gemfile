@@ -35,6 +35,7 @@ group :development, :test do
   gem 'foundation-rails'
   gem 'pry'
   gem 'simplecov'
+  gem 'factory_bot_rails'
   
 end
 
